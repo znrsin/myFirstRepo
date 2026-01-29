@@ -1,0 +1,3 @@
+Git is a tool that helps developers keep track of changes in their code and work together without overwriting each other’s work. GitHub is an online platform that uses Git and provides a place to store projects, collaborate with others, and manage issues.
+
+Version control systems like Git are important because they allow developers to work safely, combine changes easily, and go back to older versions when needed. Learning Git and GitHub is an essential skill for anyone in software development.
