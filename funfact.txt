@@ -1,0 +1,12 @@
+Fun Facts:
+
+Git was created in 2005 by Linus Torvalds, the same person who created the Linux operating system, to manage Linux development.
+
+The name “Git” comes from British slang meaning “unpleasant person,” which Linus chose humorously.
+
+GitHub, founded in 2008, is now the largest platform for hosting and sharing source code, used by millions of developers.
+
+In 2018, Microsoft bought GitHub for $7.5 billion, showing how important it is in the tech industry.
+
+Why Use Git and GitHub?
+Git helps track changes and combine work from multiple people without confusion, similar to an editor that records every revision. GitHub acts like an online library where projects are stored, shared, and improved together, making teamwork easier and more organized.
